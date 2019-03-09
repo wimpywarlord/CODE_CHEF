@@ -24,6 +24,7 @@ for i in range(0,t):
             if len(d1)==5:
                 ans+=1
     print(ans)'''
+import itertools
 for i in range(int(input())):
     n=int(input())
     z=[]
@@ -32,12 +33,10 @@ for i in range(int(input())):
         z.append("".join(list(set(s))))
     #print(z)
     ans=0
-    for j in range(0,n):
-        for k in range(j+1,n):
-            temp=z[j]+z[k]
-            #print(temp)
-            if len(set(temp))==5:
-                ans+=1
+    for a in itertools.combinations(z,2):
+        #print("".join(a))
+        if len(set("".join(a)))==5:
+            ans+=1
     print(ans)
         
         
