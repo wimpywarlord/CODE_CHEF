@@ -35,6 +35,7 @@ Build with love and some passion.
 ## Contributing
 
 Help us make the this repo better by either adding more questions or imporving old ones.
+You can add in comments to explain the existing codes.
 
 ## I'm a social animal!
 
