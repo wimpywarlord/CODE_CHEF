@@ -6,6 +6,8 @@
 
 This repo is a collections of many questions hosted on the coding platform called code chef. Look for question here if u are unable to solve the problems or you need a different perespecitive on the same. I am currenlty adding questions and hence if u can help in adding more and more question it would be a great help.
 
+Do not expect to find the solved questions during a live contest.
+
 ## Getting Started
 
 [![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/wimpywarlord/Mess_It_Up) 
